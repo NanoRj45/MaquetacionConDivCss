@@ -15,4 +15,15 @@ se le llama maquetacion al temino de dividir la seccionesde una pagina y aplicar
                 --->Aside
             -->Footer
 >crear un archivo Css
-    
+    - utilizar seleccionadores 
+        *{} universal
+        .{} clases
+        #{} identificadores
+    - Asignar atributos como:
+        - whidth
+        - heigth
+        - marging
+        - pandding
+        - fload
+        - background
+        - border
